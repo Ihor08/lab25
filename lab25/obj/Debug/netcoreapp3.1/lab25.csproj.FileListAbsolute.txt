@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\lab25\lab25\bin\Debug\netcoreapp3.1\lab25.exe
+C:\Users\User\source\repos\lab25\lab25\bin\Debug\netcoreapp3.1\lab25.deps.json
+C:\Users\User\source\repos\lab25\lab25\bin\Debug\netcoreapp3.1\lab25.runtimeconfig.json
+C:\Users\User\source\repos\lab25\lab25\bin\Debug\netcoreapp3.1\lab25.runtimeconfig.dev.json
+C:\Users\User\source\repos\lab25\lab25\bin\Debug\netcoreapp3.1\lab25.dll
+C:\Users\User\source\repos\lab25\lab25\bin\Debug\netcoreapp3.1\lab25.pdb
+C:\Users\User\source\repos\lab25\lab25\obj\Debug\netcoreapp3.1\lab25.csprojAssemblyReference.cache
+C:\Users\User\source\repos\lab25\lab25\obj\Debug\netcoreapp3.1\lab25.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\lab25\lab25\obj\Debug\netcoreapp3.1\lab25.AssemblyInfo.cs
+C:\Users\User\source\repos\lab25\lab25\obj\Debug\netcoreapp3.1\lab25.dll
+C:\Users\User\source\repos\lab25\lab25\obj\Debug\netcoreapp3.1\lab25.pdb
